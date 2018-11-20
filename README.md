@@ -11,8 +11,10 @@ NICEATM is an office within the division of the National Toxicology Program at t
 
 EMAIL: neal.cariello@gmail.com
 
+Please see Figure 1 for the typical state of the author. 
+
 ![](jpgs_for_readme/neal_picture.jpg)  
-Author after way too much coffee
+Figure 1. Author after way too much coffee
 
 **Please see _**Caret Generic Workflow Documentation 2018_10_29.docx**_ in the documentation subdirectory to get started.**
 
