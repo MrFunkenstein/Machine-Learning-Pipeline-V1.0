@@ -18,12 +18,6 @@ Figure 1. Author after way too much coffee
 
 **Please see _**Caret Generic Workflow Documentation 2018_10_29.docx**_ in the documentation subdirectory to get started.**
 
-## To Get The Files Use Git Or Download Directly
-**TIP**: If you don't know what Git is, use the direct download method as shown in Figure 1.
-
-![](jpgs_for_readme/download_or_git.jpg)    
-Figure 1.  Download options.
-
 Subdirectories needed to run the code are shown in Figure 2.
 
 ![](jpgs_for_readme/down_load_subdirs.jpg)   
